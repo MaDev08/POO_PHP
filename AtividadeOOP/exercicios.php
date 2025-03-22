@@ -37,5 +37,6 @@ $livro02 = new Livro("As aventuras de Tcham Tcham", "Alexandre Guimarães", 2020
 
 
 //Mostrar os resultados: 
+echo 'Autor: '.$livro01->getAutor()."\n";
+echo 'Autor: '.$livro02->getAutor()."\n";
 
-echo ''
