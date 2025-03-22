@@ -30,3 +30,12 @@ class Livro {
     }
 
 }
+
+//Criar objeto:
+$livro01 = new Livro("Desnecessauros", "Lucas Guaranese", 2010, 34.90);
+$livro02 = new Livro("As aventuras de Tcham Tcham", "Alexandre Guimarães", 2020, 56.99);
+
+
+//Mostrar os resultados: 
+
+echo ''
